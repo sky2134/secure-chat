@@ -388,15 +388,3 @@ Contributions are welcome! Here are several ways you can contribute:
 7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="center">
-   <a href="https://github.com/sharanreddy99/securechat.git/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=sharanreddy99/securechat">
-   </a>
-</p>
-</details>
-
----
